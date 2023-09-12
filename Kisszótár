@@ -1,3 +1,4 @@
-Hub - Magyarul is hub
-Bridge - Híd
-Switch - Kapcsoló
+Hub - Magyarul is hub -> Ez "szinte csak drót". Összekötésre való. Nem használjuk ma már.
+Bridge - Híd -> Egy butább Switch. Szintúgy már elavult.
+Switch - Kapcsoló -> OSI 2. rétegben működik. Továbbít
+MAC cím - Hardware cím - "Fizikai" cím
